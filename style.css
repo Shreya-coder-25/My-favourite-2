@@ -1,0 +1,37 @@
+body
+{
+ text-align:center;
+  background-image:linear-gradient( pink, blue);
+  background-repeat:no repeat;
+}
+img
+{
+  border-radius:10%;
+  width:100px;
+}
+#my_hoby_content
+{
+  padding:20px;
+  font-sixe:18;
+  text-align:centre;
+}
+h1
+{
+  text-shadow:2px 2px #5de61e;
+  font-size:20px;
+}
+h2
+{
+  text-shadow:2px 2px #ffd1f4;
+  font-size:20px;
+}
+.collapse navbar-collapse
+{
+ list-style: none;
+    font-family:cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
